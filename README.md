@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarni66
 - 👀 I’m interested in Data Science/Data Analytics
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, SQL, Tableau, Hadoop, Spark
 - 💞️ I’m looking to collaborate on Data Science/Data Analytics, jobs/projects
 - 📫 How to reach me nizar.fathurohman@gmail.com
 
