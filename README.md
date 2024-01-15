@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarni66
-- 👀 I’m interested in Data Science/Data Analytics
-- 🌱 I’m currently learning Python, SQL, Tableau, Hadoop, Spark
-- 💞️ I’m looking to collaborate on Data Science/Data Analytics, jobs/projects
+- 👀 I’m interested in Data Science | Data Engineer | Data Analytics
+- 🌱 I’m currently freelancing as Web Scraper Developer on [Upwork](https://www.upwork.com/freelancers/nizarf)
+- 💞️ I’m looking to collaborate on Data Science | Data Engineer | Data Analytics remote or hybrid job.
 - 📫 How to reach me nizar.fathurohman@gmail.com
 
 <!---
