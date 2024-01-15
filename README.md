@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarni66
 - 👀 I’m interested in Data Science | Data Engineer | Data Analytics
 - 🌱 I’m currently freelancing as Web Scraper Developer on [Upwork](https://www.upwork.com/freelancers/nizarf)
-- 💞️ I’m looking to collaborate on Data Science | Data Engineer | Data Analytics remote or hybrid job.
+- 💞️ I’m looking to collaborate on data related remote or hybrid project/job.
 - 📫 How to reach me nizar.fathurohman@gmail.com
 
 <!---
